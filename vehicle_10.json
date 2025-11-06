@@ -1,0 +1,252 @@
+[
+  {
+    "vehicleId": "VHC-001",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LEB-1234",
+    "vehicleType": "Sedan",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 62,
+    "odometer": 45720.5,
+    "fuelLevel": 68,
+    "location": {
+      "latitude": 31.5204,
+      "longitude": 74.3587,
+      "address": "Center Tower 1, Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-05T14:00:00Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-300-1234567"
+    },
+    "engineTemperature": 87,
+    "batteryVoltage": 12.8,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "VHC-002",
+    "vehicleName": "Suzuki Bolan",
+    "vehicleNumber": "LHR-5678",
+    "vehicleType": "Van",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 0,
+    "odometer": 30560.3,
+    "fuelLevel": 45,
+    "location": {
+      "latitude": 31.582045,
+      "longitude": 74.329376,
+      "address": "Johar Town, Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-05T13:45:00Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-301-9876543"
+    },
+    "engineTemperature": 35,
+    "batteryVoltage": 12.5,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "VHC-003",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISB-1122",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 0,
+    "odometer": 22980.8,
+    "fuelLevel": 72,
+    "location": {
+      "latitude": 33.6844,
+      "longitude": 73.0479,
+      "address": "Blue Area, Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-05T14:05:00Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-333-1112233"
+    },
+    "engineTemperature": 75,
+    "batteryVoltage": 13.0,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "VHC-004",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DXB-7861",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 85,
+    "odometer": 12890.6,
+    "fuelLevel": 56,
+    "location": {
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "address": "Sheikh Zayed Road, Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-05T10:00:00Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-50-2345678"
+    },
+    "engineTemperature": 92,
+    "batteryVoltage": 13.1,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "VHC-005",
+    "vehicleName": "Nissan Patrol",
+    "vehicleNumber": "AUH-4532",
+    "vehicleType": "SUV",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 0,
+    "odometer": 60850.2,
+    "fuelLevel": 40,
+    "location": {
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "address": "Corniche Road, Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-05T09:50:00Z",
+    "driver": {
+      "name": "Ahmed Saeed",
+      "contact": "+971-55-7654321"
+    },
+    "engineTemperature": 38,
+    "batteryVoltage": 12.6,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "VHC-006",
+    "vehicleName": "Mitsubishi Canter",
+    "vehicleNumber": "SHJ-9981",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 55,
+    "odometer": 98542.3,
+    "fuelLevel": 60,
+    "location": {
+      "latitude": 25.3463,
+      "longitude": 55.4209,
+      "address": "Industrial Area, Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-05T09:58:00Z",
+    "driver": {
+      "name": "Salman Farooq",
+      "contact": "+971-52-9988776"
+    },
+    "engineTemperature": 88,
+    "batteryVoltage": 12.9,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "VHC-007",
+    "vehicleName": "Toyota Hiace",
+    "vehicleNumber": "DXB-2290",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 0,
+    "odometer": 42500.1,
+    "fuelLevel": 75,
+    "location": {
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "address": "Bur Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-05T10:10:00Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-56-3332211"
+    },
+    "engineTemperature": 80,
+    "batteryVoltage": 13.2,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "VHC-008",
+    "vehicleName": "Honda Accord",
+    "vehicleNumber": "LHR-3344",
+    "vehicleType": "Sedan",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 0,
+    "odometer": 35890.7,
+    "fuelLevel": 20,
+    "location": {
+      "latitude": 31.4090,
+      "longitude": 74.2167,
+      "address": "DHA Phase 6, Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-04T22:00:00Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-302-4455667"
+    },
+    "engineTemperature": 30,
+    "batteryVoltage": 11.8,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "VHC-009",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "DXB-7788",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 72,
+    "odometer": 23410.5,
+    "fuelLevel": 63,
+    "location": {
+      "latitude": 25.1972,
+      "longitude": 55.2744,
+      "address": "Downtown Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-05T10:15:00Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-58-2213344"
+    },
+    "engineTemperature": 90,
+    "batteryVoltage": 13.0,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "VHC-010",
+    "vehicleName": "Toyota Hilux",
+    "vehicleNumber": "SHJ-4509",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 0,
+    "odometer": 67520.0,
+    "fuelLevel": 48,
+    "location": {
+      "latitude": 25.3318,
+      "longitude": 55.4121,
+      "address": "Sharjah City Center, UAE"
+    },
+    "lastUpdated": "2025-11-05T09:40:00Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+971-50-7779988"
+    },
+    "engineTemperature": 40,
+    "batteryVoltage": 12.4,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  }
+]

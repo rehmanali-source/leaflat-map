@@ -1,0 +1,2502 @@
+[
+  {
+    "vehicleId": "PK-001",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "MUL-1277",
+    "vehicleType": "Van",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 1.6,
+    "odometer": 77468.8,
+    "fuelLevel": 11,
+    "location": {
+      "latitude": 30.157554,
+      "longitude": 71.506878,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:56:24.092538Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-31-2540486"
+    },
+    "engineTemperature": 86,
+    "batteryVoltage": 13.1,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-002",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "KAR-9679",
+    "vehicleType": "Truck",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 94.2,
+    "odometer": 85841.9,
+    "fuelLevel": 96,
+    "location": {
+      "latitude": 24.878503,
+      "longitude": 66.978647,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:17:24.092591Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-35-6325133"
+    },
+    "engineTemperature": 55,
+    "batteryVoltage": 13.3,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-003",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "MUL-1240",
+    "vehicleType": "SUV",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 83.7,
+    "odometer": 36672.0,
+    "fuelLevel": 70,
+    "location": {
+      "latitude": 30.111207,
+      "longitude": 71.566274,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:19:24.092609Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-33-8093546"
+    },
+    "engineTemperature": 87,
+    "batteryVoltage": 11.6,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-004",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "KAR-4818",
+    "vehicleType": "SUV",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 114.0,
+    "odometer": 96939.2,
+    "fuelLevel": 15,
+    "location": {
+      "latitude": 24.853938,
+      "longitude": 66.976737,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:06:24.092624Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-31-1179231"
+    },
+    "engineTemperature": 55,
+    "batteryVoltage": 13.5,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-005",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "KAR-2430",
+    "vehicleType": "SUV",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 96.0,
+    "odometer": 59545.3,
+    "fuelLevel": 96,
+    "location": {
+      "latitude": 24.898408,
+      "longitude": 67.005751,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:12:24.092639Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-35-3927458"
+    },
+    "engineTemperature": 44,
+    "batteryVoltage": 12.4,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-006",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "MUL-4377",
+    "vehicleType": "Truck",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 0.4,
+    "odometer": 95793.0,
+    "fuelLevel": 14,
+    "location": {
+      "latitude": 30.189812,
+      "longitude": 71.498855,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:59:24.092659Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-32-6784545"
+    },
+    "engineTemperature": 59,
+    "batteryVoltage": 12.6,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-007",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "KAR-6653",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 72.1,
+    "odometer": 25613.1,
+    "fuelLevel": 55,
+    "location": {
+      "latitude": 24.890788,
+      "longitude": 67.020684,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:15:24.092688Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-35-8634197"
+    },
+    "engineTemperature": 67,
+    "batteryVoltage": 11.9,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-008",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "KAR-2616",
+    "vehicleType": "Truck",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 10.7,
+    "odometer": 54977.2,
+    "fuelLevel": 67,
+    "location": {
+      "latitude": 24.887154,
+      "longitude": 67.024548,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:36:24.092706Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-38-6079883"
+    },
+    "engineTemperature": 90,
+    "batteryVoltage": 12.5,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-009",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "LAH-6155",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 7.1,
+    "odometer": 50816.4,
+    "fuelLevel": 66,
+    "location": {
+      "latitude": 31.474873,
+      "longitude": 74.366127,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:01:24.092720Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-38-9461542"
+    },
+    "engineTemperature": 56,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-010",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "LAH-1757",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 92.2,
+    "odometer": 95616.7,
+    "fuelLevel": 91,
+    "location": {
+      "latitude": 31.500403,
+      "longitude": 74.358309,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:37:24.092747Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-37-6540554"
+    },
+    "engineTemperature": 85,
+    "batteryVoltage": 12.8,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-011",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "ISL-8410",
+    "vehicleType": "Sedan",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 47.0,
+    "odometer": 65053.9,
+    "fuelLevel": 70,
+    "location": {
+      "latitude": 33.646008,
+      "longitude": 73.053377,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:25:24.092760Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-33-9004177"
+    },
+    "engineTemperature": 80,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-012",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISL-3173",
+    "vehicleType": "Van",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 71.6,
+    "odometer": 84575.7,
+    "fuelLevel": 73,
+    "location": {
+      "latitude": 33.667291,
+      "longitude": 73.027573,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:24:24.092772Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-33-7155206"
+    },
+    "engineTemperature": 72,
+    "batteryVoltage": 13.1,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-013",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "KAR-3585",
+    "vehicleType": "Sedan",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 0.4,
+    "odometer": 39633.5,
+    "fuelLevel": 49,
+    "location": {
+      "latitude": 24.825399,
+      "longitude": 66.997668,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:04:24.092784Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-32-1537513"
+    },
+    "engineTemperature": 92,
+    "batteryVoltage": 12.8,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-014",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "LAH-3006",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 113.7,
+    "odometer": 86552.2,
+    "fuelLevel": 25,
+    "location": {
+      "latitude": 31.472913,
+      "longitude": 74.308729,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:37:24.092798Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-35-2085447"
+    },
+    "engineTemperature": 64,
+    "batteryVoltage": 12.0,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-015",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "MUL-9829",
+    "vehicleType": "SUV",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 84.7,
+    "odometer": 90276.0,
+    "fuelLevel": 28,
+    "location": {
+      "latitude": 30.184338,
+      "longitude": 71.482125,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:34:24.092819Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-31-8414695"
+    },
+    "engineTemperature": 83,
+    "batteryVoltage": 12.7,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-016",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "KAR-2420",
+    "vehicleType": "SUV",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 60.1,
+    "odometer": 63490.6,
+    "fuelLevel": 39,
+    "location": {
+      "latitude": 24.866139,
+      "longitude": 67.049278,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:34:24.092833Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-32-2804097"
+    },
+    "engineTemperature": 65,
+    "batteryVoltage": 11.9,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-017",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "MUL-9589",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 82.5,
+    "odometer": 51494.7,
+    "fuelLevel": 66,
+    "location": {
+      "latitude": 30.155066,
+      "longitude": 71.565926,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:44:24.092844Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-33-5690049"
+    },
+    "engineTemperature": 33,
+    "batteryVoltage": 12.9,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-018",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "MUL-9826",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 71.5,
+    "odometer": 58056.6,
+    "fuelLevel": 76,
+    "location": {
+      "latitude": 30.150611,
+      "longitude": 71.527957,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:21:24.092861Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-31-3883299"
+    },
+    "engineTemperature": 75,
+    "batteryVoltage": 11.9,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-019",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "MUL-4467",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 38.5,
+    "odometer": 25988.6,
+    "fuelLevel": 45,
+    "location": {
+      "latitude": 30.126217,
+      "longitude": 71.572081,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:57:24.092873Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-30-2197842"
+    },
+    "engineTemperature": 32,
+    "batteryVoltage": 12.1,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-020",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "LAH-9871",
+    "vehicleType": "Truck",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 87.8,
+    "odometer": 13180.1,
+    "fuelLevel": 70,
+    "location": {
+      "latitude": 31.492316,
+      "longitude": 74.320258,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:28:24.092891Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-31-7716941"
+    },
+    "engineTemperature": 60,
+    "batteryVoltage": 12.0,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-021",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "ISL-5348",
+    "vehicleType": "Sedan",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 18.2,
+    "odometer": 84535.8,
+    "fuelLevel": 59,
+    "location": {
+      "latitude": 33.655683,
+      "longitude": 73.022757,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:16:24.092906Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-34-6004214"
+    },
+    "engineTemperature": 63,
+    "batteryVoltage": 11.6,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-022",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "MUL-8047",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 113.6,
+    "odometer": 13582.2,
+    "fuelLevel": 66,
+    "location": {
+      "latitude": 30.134884,
+      "longitude": 71.499626,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:27:24.092918Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-39-1746715"
+    },
+    "engineTemperature": 70,
+    "batteryVoltage": 12.0,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-023",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "KAR-5401",
+    "vehicleType": "Sedan",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 66.6,
+    "odometer": 82527.9,
+    "fuelLevel": 82,
+    "location": {
+      "latitude": 24.818106,
+      "longitude": 67.049659,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:01:24.092929Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-39-5180395"
+    },
+    "engineTemperature": 45,
+    "batteryVoltage": 11.9,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-024",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "LAH-7471",
+    "vehicleType": "Truck",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 30.3,
+    "odometer": 32674.3,
+    "fuelLevel": 76,
+    "location": {
+      "latitude": 31.524913,
+      "longitude": 74.332252,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:40:24.092940Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-34-7395433"
+    },
+    "engineTemperature": 41,
+    "batteryVoltage": 12.6,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-025",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "MUL-1855",
+    "vehicleType": "Truck",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 98.5,
+    "odometer": 70482.5,
+    "fuelLevel": 90,
+    "location": {
+      "latitude": 30.15227,
+      "longitude": 71.528174,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:29:24.092953Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-38-1076103"
+    },
+    "engineTemperature": 52,
+    "batteryVoltage": 11.7,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-026",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "ISL-7470",
+    "vehicleType": "Truck",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 13.9,
+    "odometer": 42814.0,
+    "fuelLevel": 30,
+    "location": {
+      "latitude": 33.654372,
+      "longitude": 73.062964,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:57:24.092975Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-35-4199674"
+    },
+    "engineTemperature": 53,
+    "batteryVoltage": 12.6,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-027",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LAH-2252",
+    "vehicleType": "SUV",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 39.1,
+    "odometer": 19240.3,
+    "fuelLevel": 17,
+    "location": {
+      "latitude": 31.527051,
+      "longitude": 74.320243,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:15:24.092988Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-38-7712615"
+    },
+    "engineTemperature": 84,
+    "batteryVoltage": 13.2,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-028",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "KAR-3453",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 9.0,
+    "odometer": 31451.3,
+    "fuelLevel": 39,
+    "location": {
+      "latitude": 24.830994,
+      "longitude": 66.991426,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:54:24.092999Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-38-1880522"
+    },
+    "engineTemperature": 44,
+    "batteryVoltage": 12.5,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-029",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "LAH-9471",
+    "vehicleType": "Pickup",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 53.3,
+    "odometer": 65824.7,
+    "fuelLevel": 19,
+    "location": {
+      "latitude": 31.542958,
+      "longitude": 74.368281,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:39:24.093011Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-34-7081115"
+    },
+    "engineTemperature": 61,
+    "batteryVoltage": 11.8,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-030",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "KAR-1200",
+    "vehicleType": "Sedan",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 110.7,
+    "odometer": 32912.5,
+    "fuelLevel": 38,
+    "location": {
+      "latitude": 24.829758,
+      "longitude": 67.01148,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:32:24.093024Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-39-6552415"
+    },
+    "engineTemperature": 31,
+    "batteryVoltage": 11.6,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-031",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "ISL-5262",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 25.0,
+    "odometer": 45302.8,
+    "fuelLevel": 17,
+    "location": {
+      "latitude": 33.683145,
+      "longitude": 73.069533,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:48:24.093036Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-39-3199984"
+    },
+    "engineTemperature": 47,
+    "batteryVoltage": 13.1,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-032",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISL-4326",
+    "vehicleType": "Truck",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 39.7,
+    "odometer": 51893.9,
+    "fuelLevel": 16,
+    "location": {
+      "latitude": 33.701912,
+      "longitude": 73.055857,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:51:24.093055Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-30-2599696"
+    },
+    "engineTemperature": 76,
+    "batteryVoltage": 12.7,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-033",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "LAH-7067",
+    "vehicleType": "Pickup",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 22.9,
+    "odometer": 67146.2,
+    "fuelLevel": 85,
+    "location": {
+      "latitude": 31.540003,
+      "longitude": 74.335523,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:47:24.093067Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-32-2990272"
+    },
+    "engineTemperature": 89,
+    "batteryVoltage": 12.8,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-034",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LAH-3023",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 78.1,
+    "odometer": 53798.0,
+    "fuelLevel": 68,
+    "location": {
+      "latitude": 31.53157,
+      "longitude": 74.332783,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:00:24.093079Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-39-7690222"
+    },
+    "engineTemperature": 35,
+    "batteryVoltage": 12.8,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-035",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LAH-7641",
+    "vehicleType": "Pickup",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 118.6,
+    "odometer": 49330.7,
+    "fuelLevel": 52,
+    "location": {
+      "latitude": 31.490681,
+      "longitude": 74.349126,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:45:24.093091Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-33-1172619"
+    },
+    "engineTemperature": 78,
+    "batteryVoltage": 11.7,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-036",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISL-4472",
+    "vehicleType": "Truck",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 46.7,
+    "odometer": 10473.1,
+    "fuelLevel": 46,
+    "location": {
+      "latitude": 33.709829,
+      "longitude": 73.038775,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:03:24.093103Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-39-5919699"
+    },
+    "engineTemperature": 34,
+    "batteryVoltage": 13.0,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-037",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "LAH-2738",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 54.6,
+    "odometer": 98748.0,
+    "fuelLevel": 78,
+    "location": {
+      "latitude": 31.492171,
+      "longitude": 74.39026,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:32:24.093115Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-35-6804036"
+    },
+    "engineTemperature": 31,
+    "batteryVoltage": 13.1,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-038",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "KAR-5345",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 111.5,
+    "odometer": 94318.7,
+    "fuelLevel": 94,
+    "location": {
+      "latitude": 24.861048,
+      "longitude": 67.016703,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:28:24.093134Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-30-8419722"
+    },
+    "engineTemperature": 82,
+    "batteryVoltage": 12.7,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-039",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "ISL-2969",
+    "vehicleType": "Van",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 7.5,
+    "odometer": 70967.8,
+    "fuelLevel": 47,
+    "location": {
+      "latitude": 33.636993,
+      "longitude": 73.021495,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:01:24.093148Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-39-2620455"
+    },
+    "engineTemperature": 56,
+    "batteryVoltage": 11.5,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-040",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "LAH-2588",
+    "vehicleType": "Truck",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 79.0,
+    "odometer": 31753.1,
+    "fuelLevel": 84,
+    "location": {
+      "latitude": 31.549167,
+      "longitude": 74.311462,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:33:24.093160Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-38-7552162"
+    },
+    "engineTemperature": 95,
+    "batteryVoltage": 13.5,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-041",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "KAR-8324",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 105.7,
+    "odometer": 13021.3,
+    "fuelLevel": 30,
+    "location": {
+      "latitude": 24.882532,
+      "longitude": 67.029709,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:39:24.093171Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-30-6617009"
+    },
+    "engineTemperature": 30,
+    "batteryVoltage": 12.9,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-042",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "LAH-8252",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 23.3,
+    "odometer": 51124.9,
+    "fuelLevel": 85,
+    "location": {
+      "latitude": 31.483311,
+      "longitude": 74.400633,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:12:24.093185Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-30-2770233"
+    },
+    "engineTemperature": 66,
+    "batteryVoltage": 12.7,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-043",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "MUL-4213",
+    "vehicleType": "Truck",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 10.6,
+    "odometer": 85399.3,
+    "fuelLevel": 82,
+    "location": {
+      "latitude": 30.177234,
+      "longitude": 71.526351,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:59:24.093203Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-39-9753504"
+    },
+    "engineTemperature": 63,
+    "batteryVoltage": 11.6,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-044",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "MUL-1990",
+    "vehicleType": "SUV",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 45.3,
+    "odometer": 61045.1,
+    "fuelLevel": 86,
+    "location": {
+      "latitude": 30.108439,
+      "longitude": 71.527054,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:11:24.093220Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-30-8499851"
+    },
+    "engineTemperature": 83,
+    "batteryVoltage": 12.3,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-045",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "KAR-8396",
+    "vehicleType": "SUV",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 10.5,
+    "odometer": 13194.0,
+    "fuelLevel": 52,
+    "location": {
+      "latitude": 24.863799,
+      "longitude": 67.012809,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:44:24.093231Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-37-9283736"
+    },
+    "engineTemperature": 52,
+    "batteryVoltage": 12.5,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-046",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "MUL-6575",
+    "vehicleType": "Sedan",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 9.2,
+    "odometer": 87524.4,
+    "fuelLevel": 34,
+    "location": {
+      "latitude": 30.151193,
+      "longitude": 71.497144,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:06:24.093244Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-34-8698524"
+    },
+    "engineTemperature": 35,
+    "batteryVoltage": 12.3,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-047",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LAH-8360",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 73.6,
+    "odometer": 56695.0,
+    "fuelLevel": 14,
+    "location": {
+      "latitude": 31.553531,
+      "longitude": 74.375239,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:58:24.093255Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-30-7551874"
+    },
+    "engineTemperature": 55,
+    "batteryVoltage": 13.4,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-048",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "ISL-2095",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 90.9,
+    "odometer": 99971.1,
+    "fuelLevel": 98,
+    "location": {
+      "latitude": 33.639859,
+      "longitude": 73.097349,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:43:24.093266Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-39-9537247"
+    },
+    "engineTemperature": 31,
+    "batteryVoltage": 12.9,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-049",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "LAH-2512",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 36.4,
+    "odometer": 80229.6,
+    "fuelLevel": 62,
+    "location": {
+      "latitude": 31.5374,
+      "longitude": 74.382078,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T07:00:24.093280Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-33-4229976"
+    },
+    "engineTemperature": 39,
+    "batteryVoltage": 11.6,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-050",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "MUL-5210",
+    "vehicleType": "Truck",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 17.5,
+    "odometer": 58517.3,
+    "fuelLevel": 65,
+    "location": {
+      "latitude": 30.131874,
+      "longitude": 71.514875,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:15:24.093292Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-35-1055556"
+    },
+    "engineTemperature": 83,
+    "batteryVoltage": 12.0,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-051",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LAH-6320",
+    "vehicleType": "Truck",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 96.7,
+    "odometer": 62279.3,
+    "fuelLevel": 58,
+    "location": {
+      "latitude": 31.53636,
+      "longitude": 74.317267,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:50:24.093304Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-31-2145977"
+    },
+    "engineTemperature": 50,
+    "batteryVoltage": 12.5,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-052",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "LAH-7962",
+    "vehicleType": "Van",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 116.5,
+    "odometer": 52298.7,
+    "fuelLevel": 73,
+    "location": {
+      "latitude": 31.563415,
+      "longitude": 74.387412,
+      "address": "Lahore, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:22:24.093318Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-37-3221886"
+    },
+    "engineTemperature": 62,
+    "batteryVoltage": 13.1,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-053",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "ISL-2594",
+    "vehicleType": "Truck",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 109.6,
+    "odometer": 47384.0,
+    "fuelLevel": 10,
+    "location": {
+      "latitude": 33.675353,
+      "longitude": 73.038257,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:06:24.093329Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-30-9109258"
+    },
+    "engineTemperature": 30,
+    "batteryVoltage": 13.2,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-054",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISL-9348",
+    "vehicleType": "Truck",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 10.1,
+    "odometer": 18901.9,
+    "fuelLevel": 12,
+    "location": {
+      "latitude": 33.722712,
+      "longitude": 73.014719,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:37:24.093341Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-39-7929314"
+    },
+    "engineTemperature": 48,
+    "batteryVoltage": 12.3,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-055",
+    "vehicleName": "Suzuki Alto",
+    "vehicleNumber": "ISL-6551",
+    "vehicleType": "Van",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 85.7,
+    "odometer": 16512.9,
+    "fuelLevel": 51,
+    "location": {
+      "latitude": 33.647036,
+      "longitude": 73.0551,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:26:24.093352Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-33-2249462"
+    },
+    "engineTemperature": 67,
+    "batteryVoltage": 13.0,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-056",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "KAR-5664",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 70.9,
+    "odometer": 71529.6,
+    "fuelLevel": 13,
+    "location": {
+      "latitude": 24.817769,
+      "longitude": 66.986258,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:10:24.093364Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-31-1157010"
+    },
+    "engineTemperature": 53,
+    "batteryVoltage": 13.5,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-057",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "KAR-6795",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 7.9,
+    "odometer": 55252.8,
+    "fuelLevel": 10,
+    "location": {
+      "latitude": 24.875265,
+      "longitude": 67.027728,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:16:24.093377Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-30-7914311"
+    },
+    "engineTemperature": 43,
+    "batteryVoltage": 11.7,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-058",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "KAR-3646",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 72.0,
+    "odometer": 80243.1,
+    "fuelLevel": 97,
+    "location": {
+      "latitude": 24.884171,
+      "longitude": 67.032205,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:41:24.093395Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-34-7741198"
+    },
+    "engineTemperature": 85,
+    "batteryVoltage": 13.2,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-059",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "MUL-1794",
+    "vehicleType": "Van",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 14.4,
+    "odometer": 60568.7,
+    "fuelLevel": 63,
+    "location": {
+      "latitude": 30.15917,
+      "longitude": 71.536635,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:58:24.093412Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-31-5686630"
+    },
+    "engineTemperature": 83,
+    "batteryVoltage": 13.2,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-060",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISL-4072",
+    "vehicleType": "Truck",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 92.7,
+    "odometer": 64122.6,
+    "fuelLevel": 90,
+    "location": {
+      "latitude": 33.729987,
+      "longitude": 73.051989,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:56:24.093432Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-36-2167769"
+    },
+    "engineTemperature": 60,
+    "batteryVoltage": 13.5,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-061",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "ISL-6148",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 70.3,
+    "odometer": 69856.0,
+    "fuelLevel": 74,
+    "location": {
+      "latitude": 33.697807,
+      "longitude": 73.031371,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:59:24.093444Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-34-6054259"
+    },
+    "engineTemperature": 76,
+    "batteryVoltage": 12.5,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-062",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "MUL-1418",
+    "vehicleType": "SUV",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 111.3,
+    "odometer": 71906.4,
+    "fuelLevel": 30,
+    "location": {
+      "latitude": 30.162751,
+      "longitude": 71.479499,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:00:24.093457Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-31-9887480"
+    },
+    "engineTemperature": 92,
+    "batteryVoltage": 11.6,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-063",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "KAR-4632",
+    "vehicleType": "Van",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 44.5,
+    "odometer": 94307.4,
+    "fuelLevel": 96,
+    "location": {
+      "latitude": 24.869031,
+      "longitude": 67.041509,
+      "address": "Karachi, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:10:24.093469Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-35-9114331"
+    },
+    "engineTemperature": 53,
+    "batteryVoltage": 11.6,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-064",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "MUL-1427",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 111.8,
+    "odometer": 90419.3,
+    "fuelLevel": 32,
+    "location": {
+      "latitude": 30.19943,
+      "longitude": 71.508359,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:59:24.093479Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-35-4889468"
+    },
+    "engineTemperature": 74,
+    "batteryVoltage": 12.4,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-065",
+    "vehicleName": "Honda Civic",
+    "vehicleNumber": "ISL-3901",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 36.9,
+    "odometer": 70937.4,
+    "fuelLevel": 33,
+    "location": {
+      "latitude": 33.69411,
+      "longitude": 72.99878,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:02:24.093491Z",
+    "driver": {
+      "name": "Rizwan Ahmed",
+      "contact": "+92-34-6558110"
+    },
+    "engineTemperature": 76,
+    "batteryVoltage": 11.9,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-066",
+    "vehicleName": "Toyota Corolla",
+    "vehicleNumber": "MUL-1301",
+    "vehicleType": "SUV",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 110.5,
+    "odometer": 19714.2,
+    "fuelLevel": 18,
+    "location": {
+      "latitude": 30.170827,
+      "longitude": 71.529509,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:52:24.093503Z",
+    "driver": {
+      "name": "Bilal Khan",
+      "contact": "+92-36-5881754"
+    },
+    "engineTemperature": 78,
+    "batteryVoltage": 12.0,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-067",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "ISL-2028",
+    "vehicleType": "Sedan",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 2.3,
+    "odometer": 50759.4,
+    "fuelLevel": 76,
+    "location": {
+      "latitude": 33.696193,
+      "longitude": 73.014133,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:13:24.093515Z",
+    "driver": {
+      "name": "Ali Khan",
+      "contact": "+92-33-5847581"
+    },
+    "engineTemperature": 89,
+    "batteryVoltage": 13.0,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "PK-068",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "ISL-8464",
+    "vehicleType": "Truck",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 12.6,
+    "odometer": 18391.6,
+    "fuelLevel": 35,
+    "location": {
+      "latitude": 33.711574,
+      "longitude": 73.094229,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:13:24.093526Z",
+    "driver": {
+      "name": "Tariq Mehmood",
+      "contact": "+92-36-9048539"
+    },
+    "engineTemperature": 48,
+    "batteryVoltage": 12.1,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "PK-069",
+    "vehicleName": "Kia Sportage",
+    "vehicleNumber": "ISL-1665",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 63.7,
+    "odometer": 69459.5,
+    "fuelLevel": 61,
+    "location": {
+      "latitude": 33.691109,
+      "longitude": 73.018383,
+      "address": "Islamabad, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:36:24.093539Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-32-2609158"
+    },
+    "engineTemperature": 73,
+    "batteryVoltage": 13.3,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "PK-070",
+    "vehicleName": "Hyundai Elantra",
+    "vehicleNumber": "MUL-7056",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 95.6,
+    "odometer": 96662.2,
+    "fuelLevel": 55,
+    "location": {
+      "latitude": 30.191632,
+      "longitude": 71.551284,
+      "address": "Multan, Pakistan"
+    },
+    "lastUpdated": "2025-11-06T06:38:24.093550Z",
+    "driver": {
+      "name": "Hassan Raza",
+      "contact": "+92-33-9497890"
+    },
+    "engineTemperature": 56,
+    "batteryVoltage": 13.4,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-071",
+    "vehicleName": "Toyota Land Cruiser",
+    "vehicleNumber": "DUB-7011",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 35.8,
+    "odometer": 70897.1,
+    "fuelLevel": 72,
+    "location": {
+      "latitude": 25.284683,
+      "longitude": 55.285253,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:34:24.093817Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-50-8747276"
+    },
+    "engineTemperature": 40,
+    "batteryVoltage": 12.2,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-072",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-9613",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "Off",
+    "speed": 18.7,
+    "odometer": 88198.9,
+    "fuelLevel": 65,
+    "location": {
+      "latitude": 25.249325,
+      "longitude": 55.30383,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:01:24.093833Z",
+    "driver": {
+      "name": "Ahmed Saeed",
+      "contact": "+971-51-5540251"
+    },
+    "engineTemperature": 38,
+    "batteryVoltage": 13.0,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-073",
+    "vehicleName": "Ford Ranger",
+    "vehicleNumber": "DUB-3632",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 94.0,
+    "odometer": 5297.4,
+    "fuelLevel": 56,
+    "location": {
+      "latitude": 25.295657,
+      "longitude": 55.299091,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:46:24.093846Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-51-3465346"
+    },
+    "engineTemperature": 62,
+    "batteryVoltage": 12.8,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "UAE-074",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-5231",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 128.0,
+    "odometer": 119827.7,
+    "fuelLevel": 50,
+    "location": {
+      "latitude": 25.248649,
+      "longitude": 55.287591,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:48:24.093860Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-52-7280106"
+    },
+    "engineTemperature": 91,
+    "batteryVoltage": 12.8,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-075",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "DUB-6522",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 96.1,
+    "odometer": 9855.4,
+    "fuelLevel": 20,
+    "location": {
+      "latitude": 25.263234,
+      "longitude": 55.274499,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:15:24.093873Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-50-9574699"
+    },
+    "engineTemperature": 50,
+    "batteryVoltage": 12.5,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-076",
+    "vehicleName": "Nissan Patrol",
+    "vehicleNumber": "SHA-7689",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 67.9,
+    "odometer": 109076.7,
+    "fuelLevel": 17,
+    "location": {
+      "latitude": 25.320188,
+      "longitude": 55.395564,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:22:24.093886Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-57-2120479"
+    },
+    "engineTemperature": 54,
+    "batteryVoltage": 13.4,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-077",
+    "vehicleName": "Toyota Land Cruiser",
+    "vehicleNumber": "SHA-1601",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 107.5,
+    "odometer": 28103.8,
+    "fuelLevel": 53,
+    "location": {
+      "latitude": 25.356152,
+      "longitude": 55.401702,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:20:24.093899Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-53-4277408"
+    },
+    "engineTemperature": 78,
+    "batteryVoltage": 11.8,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-078",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-5424",
+    "vehicleType": "Van",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 6.6,
+    "odometer": 18558.8,
+    "fuelLevel": 84,
+    "location": {
+      "latitude": 25.254679,
+      "longitude": 55.292471,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:40:24.093916Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-52-2136965"
+    },
+    "engineTemperature": 74,
+    "batteryVoltage": 13.3,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-079",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-8314",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "Off",
+    "speed": 130.7,
+    "odometer": 37510.8,
+    "fuelLevel": 90,
+    "location": {
+      "latitude": 25.256461,
+      "longitude": 55.295138,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:52:24.093933Z",
+    "driver": {
+      "name": "Salman Farooq",
+      "contact": "+971-55-5190691"
+    },
+    "engineTemperature": 86,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-080",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-6070",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 101.3,
+    "odometer": 55668.7,
+    "fuelLevel": 38,
+    "location": {
+      "latitude": 25.252889,
+      "longitude": 55.277095,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:44:24.093951Z",
+    "driver": {
+      "name": "Salman Farooq",
+      "contact": "+971-58-4562262"
+    },
+    "engineTemperature": 60,
+    "batteryVoltage": 12.3,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-081",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "ABU-6706",
+    "vehicleType": "SUV",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 139.8,
+    "odometer": 43604.9,
+    "fuelLevel": 93,
+    "location": {
+      "latitude": 24.432292,
+      "longitude": 54.365221,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:42:24.094020Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-56-3636970"
+    },
+    "engineTemperature": 60,
+    "batteryVoltage": 12.0,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-082",
+    "vehicleName": "Ford Ranger",
+    "vehicleNumber": "SHA-2547",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 122.7,
+    "odometer": 93476.5,
+    "fuelLevel": 93,
+    "location": {
+      "latitude": 25.31913,
+      "longitude": 55.399747,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:07:24.094039Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-58-7291943"
+    },
+    "engineTemperature": 65,
+    "batteryVoltage": 12.8,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-083",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "ABU-2048",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 84.5,
+    "odometer": 14189.6,
+    "fuelLevel": 85,
+    "location": {
+      "latitude": 24.450406,
+      "longitude": 54.381748,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:15:24.094051Z",
+    "driver": {
+      "name": "Ahmed Saeed",
+      "contact": "+971-58-7576686"
+    },
+    "engineTemperature": 45,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-084",
+    "vehicleName": "Ford Ranger",
+    "vehicleNumber": "ABU-7198",
+    "vehicleType": "Van",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 26.4,
+    "odometer": 97892.9,
+    "fuelLevel": 96,
+    "location": {
+      "latitude": 24.447732,
+      "longitude": 54.355743,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:33:24.094063Z",
+    "driver": {
+      "name": "Salman Farooq",
+      "contact": "+971-56-1743914"
+    },
+    "engineTemperature": 90,
+    "batteryVoltage": 11.7,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-085",
+    "vehicleName": "Toyota Land Cruiser",
+    "vehicleNumber": "DUB-6107",
+    "vehicleType": "Van",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 67.4,
+    "odometer": 34194.4,
+    "fuelLevel": 56,
+    "location": {
+      "latitude": 25.300801,
+      "longitude": 55.302151,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:24:24.094075Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-56-8460543"
+    },
+    "engineTemperature": 71,
+    "batteryVoltage": 12.3,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "UAE-086",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "SHA-7468",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 68.6,
+    "odometer": 33238.3,
+    "fuelLevel": 71,
+    "location": {
+      "latitude": 25.362531,
+      "longitude": 55.448623,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:44:24.094087Z",
+    "driver": {
+      "name": "Ahmed Saeed",
+      "contact": "+971-50-1706672"
+    },
+    "engineTemperature": 83,
+    "batteryVoltage": 13.4,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-087",
+    "vehicleName": "Toyota Land Cruiser",
+    "vehicleNumber": "DUB-7582",
+    "vehicleType": "Pickup",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 62.3,
+    "odometer": 46919.6,
+    "fuelLevel": 13,
+    "location": {
+      "latitude": 25.300344,
+      "longitude": 55.276005,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:45:24.094105Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-56-2910724"
+    },
+    "engineTemperature": 51,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-088",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-1397",
+    "vehicleType": "Pickup",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 97.0,
+    "odometer": 27841.9,
+    "fuelLevel": 25,
+    "location": {
+      "latitude": 25.25422,
+      "longitude": 55.277266,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:26:24.094117Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-53-1600713"
+    },
+    "engineTemperature": 50,
+    "batteryVoltage": 13.1,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-089",
+    "vehicleName": "Nissan Patrol",
+    "vehicleNumber": "SHA-2055",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 104.3,
+    "odometer": 72059.1,
+    "fuelLevel": 25,
+    "location": {
+      "latitude": 25.326314,
+      "longitude": 55.410136,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:19:24.094128Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-58-4620691"
+    },
+    "engineTemperature": 76,
+    "batteryVoltage": 12.3,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-090",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "ABU-7606",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "Off",
+    "speed": 138.9,
+    "odometer": 16543.6,
+    "fuelLevel": 60,
+    "location": {
+      "latitude": 24.429809,
+      "longitude": 54.375881,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:56:24.094139Z",
+    "driver": {
+      "name": "Salman Farooq",
+      "contact": "+971-58-7548395"
+    },
+    "engineTemperature": 100,
+    "batteryVoltage": 12.5,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-091",
+    "vehicleName": "Toyota Land Cruiser",
+    "vehicleNumber": "DUB-4976",
+    "vehicleType": "Van",
+    "status": "Offline",
+    "ignition": "On",
+    "speed": 17.7,
+    "odometer": 77662.0,
+    "fuelLevel": 28,
+    "location": {
+      "latitude": 25.280437,
+      "longitude": 55.29914,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:36:24.094150Z",
+    "driver": {
+      "name": "Omar Khalid",
+      "contact": "+971-59-4980352"
+    },
+    "engineTemperature": 79,
+    "batteryVoltage": 12.4,
+    "acStatus": "On",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-092",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "SHA-2300",
+    "vehicleType": "Sedan",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 3.7,
+    "odometer": 85455.5,
+    "fuelLevel": 96,
+    "location": {
+      "latitude": 25.339013,
+      "longitude": 55.449,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:12:24.094162Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-55-1346819"
+    },
+    "engineTemperature": 43,
+    "batteryVoltage": 11.8,
+    "acStatus": "On",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "UAE-093",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "ABU-5277",
+    "vehicleType": "Van",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 123.5,
+    "odometer": 54988.4,
+    "fuelLevel": 29,
+    "location": {
+      "latitude": 24.479475,
+      "longitude": 54.367414,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:12:24.094180Z",
+    "driver": {
+      "name": "Ahmed Saeed",
+      "contact": "+971-53-6901095"
+    },
+    "engineTemperature": 76,
+    "batteryVoltage": 12.4,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-094",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "ABU-4511",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 74.3,
+    "odometer": 6246.8,
+    "fuelLevel": 35,
+    "location": {
+      "latitude": 24.461182,
+      "longitude": 54.37136,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:45:24.094194Z",
+    "driver": {
+      "name": "Salman Farooq",
+      "contact": "+971-55-8296553"
+    },
+    "engineTemperature": 91,
+    "batteryVoltage": 12.5,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-095",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "SHA-8312",
+    "vehicleType": "SUV",
+    "status": "Live",
+    "ignition": "On",
+    "speed": 26.0,
+    "odometer": 117631.6,
+    "fuelLevel": 28,
+    "location": {
+      "latitude": 25.368005,
+      "longitude": 55.417733,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:39:24.094205Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-50-2105586"
+    },
+    "engineTemperature": 34,
+    "batteryVoltage": 11.5,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-096",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "SHA-3126",
+    "vehicleType": "Truck",
+    "status": "Stopped",
+    "ignition": "On",
+    "speed": 73.6,
+    "odometer": 89058.3,
+    "fuelLevel": 100,
+    "location": {
+      "latitude": 25.355923,
+      "longitude": 55.402073,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:46:24.094217Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-58-7498946"
+    },
+    "engineTemperature": 60,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-097",
+    "vehicleName": "Nissan Patrol",
+    "vehicleNumber": "ABU-4633",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 40.8,
+    "odometer": 101484.9,
+    "fuelLevel": 50,
+    "location": {
+      "latitude": 24.462711,
+      "longitude": 54.401652,
+      "address": "Abu Dhabi, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:10:24.094228Z",
+    "driver": {
+      "name": "Faisal Qureshi",
+      "contact": "+971-56-6597941"
+    },
+    "engineTemperature": 91,
+    "batteryVoltage": 13.3,
+    "acStatus": "Off",
+    "gpsSignal": "Moderate"
+  },
+  {
+    "vehicleId": "UAE-098",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "SHA-8846",
+    "vehicleType": "Pickup",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 94.3,
+    "odometer": 13792.7,
+    "fuelLevel": 40,
+    "location": {
+      "latitude": 25.332096,
+      "longitude": 55.411336,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:46:24.094240Z",
+    "driver": {
+      "name": "Ahmed Saeed",
+      "contact": "+971-52-5376915"
+    },
+    "engineTemperature": 98,
+    "batteryVoltage": 12.9,
+    "acStatus": "On",
+    "gpsSignal": "Strong"
+  },
+  {
+    "vehicleId": "UAE-099",
+    "vehicleName": "Mitsubishi Pajero",
+    "vehicleNumber": "SHA-8938",
+    "vehicleType": "Truck",
+    "status": "Live",
+    "ignition": "Off",
+    "speed": 39.9,
+    "odometer": 96464.2,
+    "fuelLevel": 69,
+    "location": {
+      "latitude": 25.344383,
+      "longitude": 55.44205,
+      "address": "Sharjah, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:30:24.094257Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-50-1321862"
+    },
+    "engineTemperature": 89,
+    "batteryVoltage": 13.0,
+    "acStatus": "Off",
+    "gpsSignal": "Weak"
+  },
+  {
+    "vehicleId": "UAE-100",
+    "vehicleName": "Hyundai Tucson",
+    "vehicleNumber": "DUB-6106",
+    "vehicleType": "Sedan",
+    "status": "Idle",
+    "ignition": "On",
+    "speed": 89.6,
+    "odometer": 90321.0,
+    "fuelLevel": 41,
+    "location": {
+      "latitude": 25.290504,
+      "longitude": 55.314987,
+      "address": "Dubai, UAE"
+    },
+    "lastUpdated": "2025-11-06T06:03:24.094272Z",
+    "driver": {
+      "name": "Mohammed Ali",
+      "contact": "+971-52-9165010"
+    },
+    "engineTemperature": 34,
+    "batteryVoltage": 13.5,
+    "acStatus": "Off",
+    "gpsSignal": "Strong"
+  }
+]
