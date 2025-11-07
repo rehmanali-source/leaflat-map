@@ -8,7 +8,7 @@
       v-for="vehicle in vehicles"
       :key="vehicle.vehicleId"
       class="card mb-3 shadow-sm p-3"
-      @click="handleVehicle(vehicle.vehicleId)"
+      @click="handleVehicle(vehicle)"
     >
       <div class="d-flex justify-content-between align-items-center">
         <div class="d-flex align-items-center">
@@ -53,6 +53,7 @@
 
 <script setup>
 import { ref, defineEmits } from "vue";
+import { statusColor } from "@/utils";
 import vehicleData from "../../vehicle.json";
 import carIcon from "../assets/car.svg";
 
@@ -60,21 +61,8 @@ const vehicles = ref(vehicleData);
 
 const emit = defineEmits(["handle-vehicle"]);
 
-const statusColor = (status) => {
-  switch (status) {
-    case "Live":
-      return "bg-success text-white";
-    case "Stopped":
-      return "bg-danger text-white";
-    case "Idle":
-      return "bg-warning text-dark";
-    default:
-      return "bg-secondary text-white";
-  }
-};
-
-const handleVehicle = (id) => {
-  emit("handle-vehicle", { vehicleId: id });
+const handleVehicle = (vehicle) => {
+  emit("handle-vehicle", vehicle);
 };
 </script>
 

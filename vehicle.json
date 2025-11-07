@@ -1,6 +1,6 @@
 [
   {
-    "vehicleId": "PK-001",
+    "id": "PK-001",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "MUL-1277",
     "vehicleType": "Van",
@@ -25,7 +25,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-002",
+    "id": "PK-002",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "KAR-9679",
     "vehicleType": "Truck",
@@ -50,7 +50,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-003",
+    "id": "PK-003",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "MUL-1240",
     "vehicleType": "SUV",
@@ -75,7 +75,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-004",
+    "id": "PK-004",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "KAR-4818",
     "vehicleType": "SUV",
@@ -100,7 +100,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-005",
+    "id": "PK-005",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "KAR-2430",
     "vehicleType": "SUV",
@@ -125,7 +125,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-006",
+    "id": "PK-006",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "MUL-4377",
     "vehicleType": "Truck",
@@ -150,7 +150,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-007",
+    "id": "PK-007",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "KAR-6653",
     "vehicleType": "SUV",
@@ -175,7 +175,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-008",
+    "id": "PK-008",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "KAR-2616",
     "vehicleType": "Truck",
@@ -200,7 +200,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-009",
+    "id": "PK-009",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "LAH-6155",
     "vehicleType": "Truck",
@@ -225,7 +225,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-010",
+    "id": "PK-010",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "LAH-1757",
     "vehicleType": "Pickup",
@@ -250,7 +250,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-011",
+    "id": "PK-011",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "ISL-8410",
     "vehicleType": "Sedan",
@@ -275,7 +275,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-012",
+    "id": "PK-012",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "ISL-3173",
     "vehicleType": "Van",
@@ -300,7 +300,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-013",
+    "id": "PK-013",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "KAR-3585",
     "vehicleType": "Sedan",
@@ -325,7 +325,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-014",
+    "id": "PK-014",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "LAH-3006",
     "vehicleType": "Pickup",
@@ -350,7 +350,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-015",
+    "id": "PK-015",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "MUL-9829",
     "vehicleType": "SUV",
@@ -375,7 +375,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-016",
+    "id": "PK-016",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "KAR-2420",
     "vehicleType": "SUV",
@@ -400,7 +400,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-017",
+    "id": "PK-017",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "MUL-9589",
     "vehicleType": "Van",
@@ -425,7 +425,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-018",
+    "id": "PK-018",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "MUL-9826",
     "vehicleType": "Truck",
@@ -450,7 +450,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-019",
+    "id": "PK-019",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "MUL-4467",
     "vehicleType": "Van",
@@ -475,7 +475,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-020",
+    "id": "PK-020",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "LAH-9871",
     "vehicleType": "Truck",
@@ -500,7 +500,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-021",
+    "id": "PK-021",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "ISL-5348",
     "vehicleType": "Sedan",
@@ -525,7 +525,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-022",
+    "id": "PK-022",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "MUL-8047",
     "vehicleType": "Pickup",
@@ -550,7 +550,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-023",
+    "id": "PK-023",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "KAR-5401",
     "vehicleType": "Sedan",
@@ -575,7 +575,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-024",
+    "id": "PK-024",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "LAH-7471",
     "vehicleType": "Truck",
@@ -600,7 +600,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-025",
+    "id": "PK-025",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "MUL-1855",
     "vehicleType": "Truck",
@@ -625,7 +625,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-026",
+    "id": "PK-026",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "ISL-7470",
     "vehicleType": "Truck",
@@ -650,7 +650,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-027",
+    "id": "PK-027",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "LAH-2252",
     "vehicleType": "SUV",
@@ -675,7 +675,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-028",
+    "id": "PK-028",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "KAR-3453",
     "vehicleType": "SUV",
@@ -700,7 +700,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-029",
+    "id": "PK-029",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "LAH-9471",
     "vehicleType": "Pickup",
@@ -725,7 +725,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-030",
+    "id": "PK-030",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "KAR-1200",
     "vehicleType": "Sedan",
@@ -750,7 +750,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-031",
+    "id": "PK-031",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "ISL-5262",
     "vehicleType": "Truck",
@@ -775,7 +775,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-032",
+    "id": "PK-032",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "ISL-4326",
     "vehicleType": "Truck",
@@ -800,7 +800,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-033",
+    "id": "PK-033",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "LAH-7067",
     "vehicleType": "Pickup",
@@ -825,7 +825,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-034",
+    "id": "PK-034",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "LAH-3023",
     "vehicleType": "SUV",
@@ -850,7 +850,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-035",
+    "id": "PK-035",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "LAH-7641",
     "vehicleType": "Pickup",
@@ -875,7 +875,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-036",
+    "id": "PK-036",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "ISL-4472",
     "vehicleType": "Truck",
@@ -900,7 +900,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-037",
+    "id": "PK-037",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "LAH-2738",
     "vehicleType": "Van",
@@ -925,7 +925,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-038",
+    "id": "PK-038",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "KAR-5345",
     "vehicleType": "Truck",
@@ -950,7 +950,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-039",
+    "id": "PK-039",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "ISL-2969",
     "vehicleType": "Van",
@@ -975,7 +975,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-040",
+    "id": "PK-040",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "LAH-2588",
     "vehicleType": "Truck",
@@ -1000,7 +1000,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-041",
+    "id": "PK-041",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "KAR-8324",
     "vehicleType": "Pickup",
@@ -1025,7 +1025,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-042",
+    "id": "PK-042",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "LAH-8252",
     "vehicleType": "Truck",
@@ -1050,7 +1050,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-043",
+    "id": "PK-043",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "MUL-4213",
     "vehicleType": "Truck",
@@ -1075,7 +1075,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-044",
+    "id": "PK-044",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "MUL-1990",
     "vehicleType": "SUV",
@@ -1100,7 +1100,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-045",
+    "id": "PK-045",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "KAR-8396",
     "vehicleType": "SUV",
@@ -1125,7 +1125,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-046",
+    "id": "PK-046",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "MUL-6575",
     "vehicleType": "Sedan",
@@ -1150,7 +1150,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-047",
+    "id": "PK-047",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "LAH-8360",
     "vehicleType": "Truck",
@@ -1175,7 +1175,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-048",
+    "id": "PK-048",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "ISL-2095",
     "vehicleType": "Truck",
@@ -1200,7 +1200,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-049",
+    "id": "PK-049",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "LAH-2512",
     "vehicleType": "Van",
@@ -1225,7 +1225,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-050",
+    "id": "PK-050",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "MUL-5210",
     "vehicleType": "Truck",
@@ -1250,7 +1250,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-051",
+    "id": "PK-051",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "LAH-6320",
     "vehicleType": "Truck",
@@ -1275,7 +1275,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-052",
+    "id": "PK-052",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "LAH-7962",
     "vehicleType": "Van",
@@ -1300,7 +1300,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-053",
+    "id": "PK-053",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "ISL-2594",
     "vehicleType": "Truck",
@@ -1325,7 +1325,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-054",
+    "id": "PK-054",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "ISL-9348",
     "vehicleType": "Truck",
@@ -1350,7 +1350,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-055",
+    "id": "PK-055",
     "vehicleName": "Suzuki Alto",
     "vehicleNumber": "ISL-6551",
     "vehicleType": "Van",
@@ -1375,7 +1375,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-056",
+    "id": "PK-056",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "KAR-5664",
     "vehicleType": "SUV",
@@ -1400,7 +1400,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-057",
+    "id": "PK-057",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "KAR-6795",
     "vehicleType": "Van",
@@ -1425,7 +1425,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-058",
+    "id": "PK-058",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "KAR-3646",
     "vehicleType": "Pickup",
@@ -1450,7 +1450,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-059",
+    "id": "PK-059",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "MUL-1794",
     "vehicleType": "Van",
@@ -1475,7 +1475,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-060",
+    "id": "PK-060",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "ISL-4072",
     "vehicleType": "Truck",
@@ -1500,7 +1500,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-061",
+    "id": "PK-061",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "ISL-6148",
     "vehicleType": "Pickup",
@@ -1525,7 +1525,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-062",
+    "id": "PK-062",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "MUL-1418",
     "vehicleType": "SUV",
@@ -1550,7 +1550,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-063",
+    "id": "PK-063",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "KAR-4632",
     "vehicleType": "Van",
@@ -1575,7 +1575,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-064",
+    "id": "PK-064",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "MUL-1427",
     "vehicleType": "Van",
@@ -1600,7 +1600,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-065",
+    "id": "PK-065",
     "vehicleName": "Honda Civic",
     "vehicleNumber": "ISL-3901",
     "vehicleType": "SUV",
@@ -1625,7 +1625,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-066",
+    "id": "PK-066",
     "vehicleName": "Toyota Corolla",
     "vehicleNumber": "MUL-1301",
     "vehicleType": "SUV",
@@ -1650,7 +1650,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-067",
+    "id": "PK-067",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "ISL-2028",
     "vehicleType": "Sedan",
@@ -1675,7 +1675,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "PK-068",
+    "id": "PK-068",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "ISL-8464",
     "vehicleType": "Truck",
@@ -1700,7 +1700,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "PK-069",
+    "id": "PK-069",
     "vehicleName": "Kia Sportage",
     "vehicleNumber": "ISL-1665",
     "vehicleType": "SUV",
@@ -1725,7 +1725,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "PK-070",
+    "id": "PK-070",
     "vehicleName": "Hyundai Elantra",
     "vehicleNumber": "MUL-7056",
     "vehicleType": "Pickup",
@@ -1750,7 +1750,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-071",
+    "id": "UAE-071",
     "vehicleName": "Toyota Land Cruiser",
     "vehicleNumber": "DUB-7011",
     "vehicleType": "Sedan",
@@ -1775,7 +1775,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-072",
+    "id": "UAE-072",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-9613",
     "vehicleType": "Pickup",
@@ -1800,7 +1800,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-073",
+    "id": "UAE-073",
     "vehicleName": "Ford Ranger",
     "vehicleNumber": "DUB-3632",
     "vehicleType": "Van",
@@ -1825,7 +1825,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "UAE-074",
+    "id": "UAE-074",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-5231",
     "vehicleType": "Sedan",
@@ -1850,7 +1850,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-075",
+    "id": "UAE-075",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "DUB-6522",
     "vehicleType": "Van",
@@ -1875,7 +1875,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-076",
+    "id": "UAE-076",
     "vehicleName": "Nissan Patrol",
     "vehicleNumber": "SHA-7689",
     "vehicleType": "Van",
@@ -1900,7 +1900,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-077",
+    "id": "UAE-077",
     "vehicleName": "Toyota Land Cruiser",
     "vehicleNumber": "SHA-1601",
     "vehicleType": "Pickup",
@@ -1925,7 +1925,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-078",
+    "id": "UAE-078",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-5424",
     "vehicleType": "Van",
@@ -1950,7 +1950,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-079",
+    "id": "UAE-079",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-8314",
     "vehicleType": "Van",
@@ -1975,7 +1975,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-080",
+    "id": "UAE-080",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-6070",
     "vehicleType": "Sedan",
@@ -2000,7 +2000,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-081",
+    "id": "UAE-081",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "ABU-6706",
     "vehicleType": "SUV",
@@ -2025,7 +2025,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-082",
+    "id": "UAE-082",
     "vehicleName": "Ford Ranger",
     "vehicleNumber": "SHA-2547",
     "vehicleType": "Sedan",
@@ -2050,7 +2050,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-083",
+    "id": "UAE-083",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "ABU-2048",
     "vehicleType": "Van",
@@ -2075,7 +2075,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-084",
+    "id": "UAE-084",
     "vehicleName": "Ford Ranger",
     "vehicleNumber": "ABU-7198",
     "vehicleType": "Van",
@@ -2100,7 +2100,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-085",
+    "id": "UAE-085",
     "vehicleName": "Toyota Land Cruiser",
     "vehicleNumber": "DUB-6107",
     "vehicleType": "Van",
@@ -2125,7 +2125,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "UAE-086",
+    "id": "UAE-086",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "SHA-7468",
     "vehicleType": "Pickup",
@@ -2150,7 +2150,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-087",
+    "id": "UAE-087",
     "vehicleName": "Toyota Land Cruiser",
     "vehicleNumber": "DUB-7582",
     "vehicleType": "Pickup",
@@ -2175,7 +2175,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-088",
+    "id": "UAE-088",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-1397",
     "vehicleType": "Pickup",
@@ -2200,7 +2200,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-089",
+    "id": "UAE-089",
     "vehicleName": "Nissan Patrol",
     "vehicleNumber": "SHA-2055",
     "vehicleType": "Pickup",
@@ -2225,7 +2225,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-090",
+    "id": "UAE-090",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "ABU-7606",
     "vehicleType": "Sedan",
@@ -2250,7 +2250,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-091",
+    "id": "UAE-091",
     "vehicleName": "Toyota Land Cruiser",
     "vehicleNumber": "DUB-4976",
     "vehicleType": "Van",
@@ -2275,7 +2275,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-092",
+    "id": "UAE-092",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "SHA-2300",
     "vehicleType": "Sedan",
@@ -2300,7 +2300,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "UAE-093",
+    "id": "UAE-093",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "ABU-5277",
     "vehicleType": "Van",
@@ -2325,7 +2325,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-094",
+    "id": "UAE-094",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "ABU-4511",
     "vehicleType": "Truck",
@@ -2350,7 +2350,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-095",
+    "id": "UAE-095",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "SHA-8312",
     "vehicleType": "SUV",
@@ -2375,7 +2375,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-096",
+    "id": "UAE-096",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "SHA-3126",
     "vehicleType": "Truck",
@@ -2400,7 +2400,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-097",
+    "id": "UAE-097",
     "vehicleName": "Nissan Patrol",
     "vehicleNumber": "ABU-4633",
     "vehicleType": "Truck",
@@ -2425,7 +2425,7 @@
     "gpsSignal": "Moderate"
   },
   {
-    "vehicleId": "UAE-098",
+    "id": "UAE-098",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "SHA-8846",
     "vehicleType": "Pickup",
@@ -2450,7 +2450,7 @@
     "gpsSignal": "Strong"
   },
   {
-    "vehicleId": "UAE-099",
+    "id": "UAE-099",
     "vehicleName": "Mitsubishi Pajero",
     "vehicleNumber": "SHA-8938",
     "vehicleType": "Truck",
@@ -2475,7 +2475,7 @@
     "gpsSignal": "Weak"
   },
   {
-    "vehicleId": "UAE-100",
+    "id": "UAE-100",
     "vehicleName": "Hyundai Tucson",
     "vehicleNumber": "DUB-6106",
     "vehicleType": "Sedan",

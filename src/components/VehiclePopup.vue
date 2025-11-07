@@ -8,14 +8,7 @@
         <p class="mb-1 text-muted small">{{ vehicle.vehicleNumber }}</p>
 
         <div class="small">
-          <span
-            class="badge me-1"
-            :class="{
-              'bg-success': vehicle.status === 'Live',
-              'bg-danger': vehicle.status === 'Stopped',
-              'bg-secondary': vehicle.status === 'Idle',
-            }"
-          >
+          <span class="badge me-1" :class="statusColor(vehicle.status)">
             {{ vehicle.status }}
           </span>
           <span class="text-muted ml-2">Ignition: {{ vehicle.ignition }}</span>
@@ -66,33 +59,17 @@
         <i class="bi bi-geo-alt-fill text-danger"></i>
         {{ vehicle.location.address }}
       </div>
-      <div>
-        <i class="bi bi-clock text-secondary"></i>
-        <!-- Last updated: {{ formatDate(vehicle.lastUpdated) }} -->
-      </div>
     </div>
   </div>
 </template>
 
 <script setup>
-import { defineProps, onMounted, ref } from "vue";
-import vehicleData from "../../vehicle.json";
+import { defineProps } from "vue";
+import { statusColor } from "@/utils";
 
 defineProps({
-  vehicleId: String,
+  vehicle: Object,
 });
-
-const vehicle = ref(null);
-
-onMounted(() => {
-  loadVehicle();
-});
-
-const loadVehicle = () => {
-  vehicle.value = vehicleData.find(
-    (vehicle) => vehicle.vehicleId === this.vehicleId
-  );
-};
 </script>
 
 <style scoped>
